@@ -38,7 +38,6 @@ public class Netflix2{
     System.out.print("Type your choice: ");
     char userChoice = keyboard.next().charAt(0);
     //keyboard.nextLine();
-    System.out.println(keyboard.nextLine());
 
     switch (userChoice) {
         case 'P':      //the progream is going to change the user's password
