@@ -1,9 +1,3 @@
-/* This program is to declare a handful of variables and print out the menu options, then execute the command user enters.
-   Name: Wuduo Wu (Kyrie)
-   Date: Sept 11, 2021
-   CSE7: Participation Week 3
-   */
-
 import java.util.Scanner;
 
 public class Netflix2{
